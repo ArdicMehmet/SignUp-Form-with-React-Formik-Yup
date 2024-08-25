@@ -1,4 +1,4 @@
-React Form Sample with Formik-Yup
+React Form Sample with Formik-Yup.
 
 Live : https://ardicmehmet.github.io/SignUp-Form-with-React-Formik-Yup/
 
